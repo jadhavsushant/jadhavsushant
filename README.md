@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jadhavsushant
 - 👀 I’m interested in ... coding and scripting
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... python for 100 days
+- 💞️ I’m looking to collaborate on ... python, terraform and kuberenetes
+- 📫 How to reach me ... sus099@gmail.com
 
 <!---
 jadhavsushant/jadhavsushant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
