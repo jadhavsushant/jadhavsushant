@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jadhavsushant
 - 👀 I’m interested in ... coding and scripting
 - 🌱 I’m currently learning ... python for 100 days
-- 💞️ I’m looking to collaborate on ... python, terraform and kuberenetes
+- 💞️ I’m looking to collaborate on ... Powershell, Python, Terraform and Kuberenetes
 - 📫 How to reach me ... sus099@gmail.com
 
 <!---
